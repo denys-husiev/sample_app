@@ -2,13 +2,13 @@
 <project version="4">
   <component name="dataSourceStorageLocal">
     <data-source name="Rails sample_app: development" uuid="8c3b5eaf-dbb0-40f2-86b8-a4cdc687c31d">
-      <database-info product="SQLite" version="3.16.1" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" />
+      <database-info product="SQLite" version="3.16.1" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" family="SQLITE" exact-version="3.16.1" />
       <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
       <auth-required>false</auth-required>
       <introspection-schemas>*:main</introspection-schemas>
     </data-source>
     <data-source name="Rails sample_app: test" uuid="d90959bf-af29-4a41-a39f-69426bca98f2">
-      <database-info product="SQLite" version="3.16.1" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" />
+      <database-info product="SQLite" version="3.16.1" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" family="SQLITE" exact-version="3.16.1" />
       <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
       <auth-required>false</auth-required>
       <introspection-schemas>*:main</introspection-schemas>
